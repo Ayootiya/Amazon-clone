@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # React-Amazon-clone-replica
 # React-Amazon-clone-replica
 # React-Amazon-clone-replica
+# Amazon-clone
